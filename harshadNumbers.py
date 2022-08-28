@@ -1,3 +1,6 @@
+# Harshad Numbers
+# https://open.kattis.com/problems/harshadnumbers
+
 def isHarshadNumber(num):
     n=num
     rem=sum=0
