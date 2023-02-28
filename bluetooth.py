@@ -40,3 +40,4 @@ elif N <=l["right+"] and \
     l1["right-"] == 0:
         print("1")
 else:
+      print("2")
